@@ -1,4 +1,4 @@
-<p align="center"><a href="https://itsdevchand.github.io"><img width="80%" src="dev.png" /></a></p>
+<!-- <p align="center"><a href="https://itsdevchand.github.io"><img width="80%" src="dev.png" /></a></p> -->
 
 <br />
 
