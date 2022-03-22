@@ -1,4 +1,4 @@
-<p align="center"><a href="https://itsdevchand.github.io"><img width="80%" src="./assets/gh-readme-header.png" /></a></p>
+<p align="center"><a href="https://itsdevchand.github.io"><img width="80%" src="https://www.facebook.com/photo/?fbid=1640973679439388&set=a.144362552433849" /></a></p>
 
 <br />
 
