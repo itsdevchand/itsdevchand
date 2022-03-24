@@ -6,7 +6,7 @@ I'm a self-taught passionate FrontEnd developer from Nepal 🇳🇵
 
 **About me**
 
-- 💼 FrontEnd Engineer at [UNDFINE](http://undfine.com/)
+- 💼 FrontEnd Engineer at Self Employed
 
 - 📈 Built github-readme-stats, verlyjs and more, **50m+** hits • **31K** stars on GitHub
 
